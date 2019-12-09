@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace R5T.Shrewsbury.Default
+namespace R5T.Shrewsbury
 {
     public static class Constants
     {

@@ -3,7 +3,7 @@
 using R5T.Cherusci;
 
 
-namespace R5T.Shrewsbury.Default
+namespace R5T.Shrewsbury
 {
     public static class Utilities
     {
