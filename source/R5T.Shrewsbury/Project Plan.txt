@@ -1,4 +1,4 @@
-R5T.Shrewsbury - A types library for the Shrewsbury project.
+R5T.Shrewsbury - A types library for the Shrewsbury project containing appsettings.json file functionality.
 
 Goals
 
